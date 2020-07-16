@@ -19,6 +19,14 @@
   <img  src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/laravel%20-%23c21325.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
+
+<h4 align='center'> 🌱 I'm currently learning...</h4>
+<br>
+<p align='center'>
+  <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
+</p>
 <!--
 **Commondev73/Commondev73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
