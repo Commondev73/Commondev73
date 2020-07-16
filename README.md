@@ -1,5 +1,10 @@
 <h2 align='center'> Hi there 👋 I'm Pisitchai </h2>
-
+<p align="center">
+  <br><img src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="450px"><br><br>
+  <samp>-------------------------------------------------------------------------------------------------------------------</samp>
+  <br>
+  
+</p>
 <h5 align='center'> My skills 💻</h5>
 <p align='center'>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
