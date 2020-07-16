@@ -5,6 +5,10 @@
   <br>
   
 </p>
+<p align='center'>
+  <a href="mailto:pisitchai1994@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 <h5 align='center'> My skills 💻</h5>
 <p align='center'>  
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
