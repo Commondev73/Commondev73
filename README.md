@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/laravel%20-%23c21325.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <!--
 **Commondev73/Commondev73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
