@@ -1,7 +1,8 @@
 <h2 align='center'> Hi there 👋 I'm Pisitchai </h2>
 <p align="center">
   <br><img src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="450px"><br><br>
-  <samp>-------------------------------------------------------------------------------------------------------------------</samp>
+  <samp>My name pisitchai Boonlaksasri. I’m interresting programming and  eager to learn. 
+I would to learn new things and share knowledge to other people for improve myself.</samp>
   <br>
   
 </p>
