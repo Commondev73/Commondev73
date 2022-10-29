@@ -21,6 +21,8 @@ I would to learn new things and share knowledge to other people for improve myse
   <img  src="https://img.shields.io/badge/laravel%20-%23c21325.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
+   <img  src="https://img.shields.io/badge/next.js%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
+  
 </p>
 <!--
 **Commondev73/Commondev73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
